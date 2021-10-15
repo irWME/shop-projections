@@ -1,1 +1,1 @@
-# Shop domain
+# Shop Projections
